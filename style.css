@@ -21,7 +21,7 @@ img{
 }
 .image{
     display:flex;
-    height: 500px;
+    height: 600px;
     width: 2000px;
    
 }
@@ -30,6 +30,11 @@ img{
    justify-self: center;
    margin-left: -1350px;
    margin-top: 200px;
-   color: red;
+   color: white;
 
+}
+.two{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
 }
