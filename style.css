@@ -1,0 +1,35 @@
+.header{
+    
+    background-color: #1f2937;
+    display:flex;
+    justify-content: space-around;
+
+  
+}
+.logo{
+    font-family: 'Roboto' sans-serif;
+    color: white;
+    display:flex;
+   
+}
+img{
+    display:flex;
+    width: 2000px;
+    
+
+
+}
+.image{
+    display:flex;
+    height: 500px;
+    width: 2000px;
+   
+}
+.one{
+   display: flex;
+   justify-self: center;
+   margin-left: -1350px;
+   margin-top: 200px;
+   color: red;
+
+}
